@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy Alejandro Figueroa Santos 👋
 
-<!--
-**AFigueSantos/AFigueSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Especialista en desarrollo de software, análisis de datos y soluciones tecnológicas. Me apasiona construir herramientas eficientes, seguras y con una excelente experiencia de usuario.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+- **Backend:** PHP (Laravel)
+- **Frontend / Diseño:** HTML5, CSS3, UX/UI Design
+- **Datos y Análisis:** R, SQL, Modelado de datos
+- **Entorno de Trabajo:** VSCodium, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados
+- **[RemboxERP]**: Sistema de registro de compras construido con Laravel).
+- **[Nombre de tu Proyecto 2]**: Breve descripción (ej. Análisis de datos automatizado en R).
