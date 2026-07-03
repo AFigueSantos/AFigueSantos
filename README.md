@@ -9,5 +9,5 @@ Especialista en desarrollo de software, análisis de datos y soluciones tecnoló
 - **Entorno de Trabajo:** VSCodium, Git
 
 ### 🚀 Proyectos Destacados
-- **[RemboxERP]**: Sistema de registro de compras construido con Laravel).
-- **[Nombre de tu Proyecto 2]**: Breve descripción (ej. Análisis de datos automatizado en R).
+- **[RemboxERP]**: Sistema de registro de compras construido con Laravel.
+- **[f1-predictions]**: Sistema de pronósticos de carreras de f1 con cálculo de puntos por aciertos.
